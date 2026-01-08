@@ -1,4 +1,4 @@
-![Professional banner — replace with your image URL](https://via.placeholder.com/1200x300?text=Professional+Banner+Placeholder)
+(https://media.licdn.com/dms/image/v2/D4D03AQGpJH_MU_6zPw/profile-displayphoto-shrink_800_800/B4DZYcQ5J4GkAk-/0/1744230914579?e=1769644800&v=beta&t=B91ZmDBWUUj-yqN4VlI5VkE3KKQ-IcAPzTrKIA6THyo))
 
 # Hi — I'm Jacob Morrell 👋
 
