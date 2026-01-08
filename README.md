@@ -83,6 +83,6 @@ Tech: Real-time feeds • Incident triage workflows • Alert prioritization
 ## Contact & Links
 I will add links and contact methods once you provide them. Typical items to include: email, LinkedIn, portfolio, and resume.
 
-- Email: you@example.com (replace)  
-- LinkedIn: [Your LinkedIn] (replace)  
+- Email: jamorr2297@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/jacob-s-morrell]
 - GitHub repo (Personal Collection Agents): (placeholder — will add URL)
